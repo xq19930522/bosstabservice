@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f757146c-81b1-4a95-a9b5-9984039c433c" name="Default Changelist" comment="" />
+    <list default="true" id="f757146c-81b1-4a95-a9b5-9984039c433c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +62,7 @@
       <workItem from="1587527669400" duration="27000" />
       <workItem from="1587527727004" duration="150000" />
       <workItem from="1587785282401" duration="2515000" />
-      <workItem from="1587887026102" duration="674000" />
+      <workItem from="1587887026102" duration="1788000" />
     </task>
     <task id="LOCAL-00001" summary="修改company  实体类 和  MessageController 控制层逻辑">
       <created>1587887155245</created>
@@ -69,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587887155245</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init  给boss直聘客户端写接口的服务端代码和和文档">
+      <created>1587887937435</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587887937435</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,7 +86,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改company  实体类 和  MessageController 控制层逻辑" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改company  实体类 和  MessageController 控制层逻辑" />
+    <MESSAGE value="init  给boss直聘客户端写接口的服务端代码和和文档" />
+    <option name="LAST_COMMIT_MESSAGE" value="init  给boss直聘客户端写接口的服务端代码和和文档" />
   </component>
   <component name="WindowStateProjectService">
     <state x="560" y="178" key="#Notifications" timestamp="1587887191447">
@@ -96,10 +106,10 @@
       <screen x="0" y="23" width="1920" height="980" />
     </state>
     <state x="773" y="197" key="#com.intellij.ide.util.MemberChooser/0.23.1920.980@0.23.1920.980" timestamp="1587812156854" />
-    <state x="571" y="112" key="CommitChangelistDialog2" timestamp="1587887154725">
+    <state x="571" y="112" key="CommitChangelistDialog2" timestamp="1587887936665">
       <screen x="0" y="23" width="1920" height="991" />
     </state>
-    <state x="571" y="112" key="CommitChangelistDialog2/0.23.1920.991@0.23.1920.991" timestamp="1587887154725" />
+    <state x="571" y="112" key="CommitChangelistDialog2/0.23.1920.991@0.23.1920.991" timestamp="1587887936665" />
     <state width="1878" height="291" key="GridCell.Tab.0.bottom" timestamp="1587812820022">
       <screen x="0" y="23" width="1920" height="980" />
     </state>
@@ -180,10 +190,10 @@
     <state width="1878" height="258" key="GridCell.Tab.1.right/0.23.1920.982@0.23.1920.982" timestamp="1587812183544" />
     <state width="1878" height="371" key="GridCell.Tab.1.right/0.23.1920.984@0.23.1920.984" timestamp="1587454665738" />
     <state width="1878" height="367" key="GridCell.Tab.1.right/0.23.1920.986@0.23.1920.986" timestamp="1587353780962" />
-    <state x="560" y="252" key="Vcs.Push.Dialog.v2" timestamp="1587887209962">
+    <state x="560" y="252" key="Vcs.Push.Dialog.v2" timestamp="1587887966238">
       <screen x="0" y="23" width="1920" height="991" />
     </state>
-    <state x="560" y="252" key="Vcs.Push.Dialog.v2/0.23.1920.991@0.23.1920.991" timestamp="1587887209962" />
+    <state x="560" y="252" key="Vcs.Push.Dialog.v2/0.23.1920.991@0.23.1920.991" timestamp="1587887966238" />
     <state x="653" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1587887032534">
       <screen x="0" y="23" width="1920" height="991" />
     </state>
